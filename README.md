@@ -26,7 +26,7 @@ I focus on graphics and engine programming in C++ and GLSL, and I'm studying ele
 * Graphics and engine development
 * Operating system development
 * Reverse engineering
-* Language and compiler design
+* Language and compiler dev
 
 
 ---
